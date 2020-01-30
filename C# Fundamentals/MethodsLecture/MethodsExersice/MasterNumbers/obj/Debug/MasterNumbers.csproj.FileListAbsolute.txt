@@ -1,0 +1,6 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\MethodsExersice\MasterNumbers\bin\Debug\MasterNumbers.exe.config
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\MethodsExersice\MasterNumbers\bin\Debug\MasterNumbers.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\MethodsExersice\MasterNumbers\bin\Debug\MasterNumbers.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\MethodsExersice\MasterNumbers\obj\Debug\MasterNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\MethodsExersice\MasterNumbers\obj\Debug\MasterNumbers.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\MethodsExersice\MasterNumbers\obj\Debug\MasterNumbers.pdb

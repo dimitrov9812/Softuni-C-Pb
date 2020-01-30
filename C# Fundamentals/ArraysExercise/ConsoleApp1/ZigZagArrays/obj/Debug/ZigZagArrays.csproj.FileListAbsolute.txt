@@ -1,0 +1,7 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ArraysExercise\ConsoleApp1\ZigZagArrays\obj\Debug\ZigZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ArraysExercise\ConsoleApp1\ZigZagArrays\bin\Debug\ZigZagArrays.exe.config
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ArraysExercise\ConsoleApp1\ZigZagArrays\bin\Debug\ZigZagArrays.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ArraysExercise\ConsoleApp1\ZigZagArrays\bin\Debug\ZigZagArrays.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ArraysExercise\ConsoleApp1\ZigZagArrays\obj\Debug\ZigZagArrays.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ArraysExercise\ConsoleApp1\ZigZagArrays\obj\Debug\ZigZagArrays.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ArraysExercise\ConsoleApp1\ZigZagArrays\obj\Debug\ZigZagArrays.csprojAssemblyReference.cache

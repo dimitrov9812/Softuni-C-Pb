@@ -1,0 +1,6 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ObjectsAndClasses\DayOfWeek\RandomizeWords\bin\Debug\RandomizeWords.exe.config
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ObjectsAndClasses\DayOfWeek\RandomizeWords\bin\Debug\RandomizeWords.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ObjectsAndClasses\DayOfWeek\RandomizeWords\bin\Debug\RandomizeWords.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ObjectsAndClasses\DayOfWeek\RandomizeWords\obj\Debug\RandomizeWords.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ObjectsAndClasses\DayOfWeek\RandomizeWords\obj\Debug\RandomizeWords.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ObjectsAndClasses\DayOfWeek\RandomizeWords\obj\Debug\RandomizeWords.pdb

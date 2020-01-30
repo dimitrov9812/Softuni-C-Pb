@@ -1,0 +1,7 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\HouseParty\bin\Debug\HouseParty.exe.config
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\HouseParty\bin\Debug\HouseParty.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\HouseParty\bin\Debug\HouseParty.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\HouseParty\obj\Debug\HouseParty.csprojAssemblyReference.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\HouseParty\obj\Debug\HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\HouseParty\obj\Debug\HouseParty.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\HouseParty\obj\Debug\HouseParty.pdb

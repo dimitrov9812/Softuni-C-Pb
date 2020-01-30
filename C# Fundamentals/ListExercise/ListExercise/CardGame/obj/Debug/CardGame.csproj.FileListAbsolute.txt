@@ -1,0 +1,7 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\CardGame\bin\Debug\CardGame.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\CardGame\bin\Debug\CardGame.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\CardGame\obj\Debug\CardGame.csprojAssemblyReference.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\CardGame\obj\Debug\CardGame.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\CardGame\obj\Debug\CardGame.pdb

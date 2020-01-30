@@ -1,0 +1,7 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\RegexExersice\Furniture\RegexExersice\bin\Debug\RegexExersice.exe.config
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\RegexExersice\Furniture\RegexExersice\bin\Debug\RegexExersice.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\RegexExersice\Furniture\RegexExersice\bin\Debug\RegexExersice.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\RegexExersice\Furniture\RegexExersice\obj\Debug\RegexExersice.csprojAssemblyReference.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\RegexExersice\Furniture\RegexExersice\obj\Debug\RegexExersice.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\RegexExersice\Furniture\RegexExersice\obj\Debug\RegexExersice.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\RegexExersice\Furniture\RegexExersice\obj\Debug\RegexExersice.pdb

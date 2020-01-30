@@ -1,0 +1,11 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\RegexExersice\Furniture\BarIncome\bin\Debug\netcoreapp2.0\BarIncome.deps.json
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\RegexExersice\Furniture\BarIncome\bin\Debug\netcoreapp2.0\BarIncome.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\RegexExersice\Furniture\BarIncome\bin\Debug\netcoreapp2.0\BarIncome.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\RegexExersice\Furniture\BarIncome\bin\Debug\netcoreapp2.0\BarIncome.dll
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\RegexExersice\Furniture\BarIncome\bin\Debug\netcoreapp2.0\BarIncome.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\RegexExersice\Furniture\BarIncome\obj\Debug\netcoreapp2.0\BarIncome.csprojAssemblyReference.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\RegexExersice\Furniture\BarIncome\obj\Debug\netcoreapp2.0\BarIncome.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\RegexExersice\Furniture\BarIncome\obj\Debug\netcoreapp2.0\BarIncome.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\RegexExersice\Furniture\BarIncome\obj\Debug\netcoreapp2.0\BarIncome.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\RegexExersice\Furniture\BarIncome\obj\Debug\netcoreapp2.0\BarIncome.dll
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\RegexExersice\Furniture\BarIncome\obj\Debug\netcoreapp2.0\BarIncome.pdb

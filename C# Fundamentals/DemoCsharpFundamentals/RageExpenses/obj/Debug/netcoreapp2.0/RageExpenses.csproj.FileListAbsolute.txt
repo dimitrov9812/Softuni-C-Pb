@@ -1,0 +1,10 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoCsharpFundamentals\RageExpenses\bin\Debug\netcoreapp2.0\RageExpenses.deps.json
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoCsharpFundamentals\RageExpenses\bin\Debug\netcoreapp2.0\RageExpenses.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoCsharpFundamentals\RageExpenses\bin\Debug\netcoreapp2.0\RageExpenses.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoCsharpFundamentals\RageExpenses\bin\Debug\netcoreapp2.0\RageExpenses.dll
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoCsharpFundamentals\RageExpenses\bin\Debug\netcoreapp2.0\RageExpenses.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoCsharpFundamentals\RageExpenses\obj\Debug\netcoreapp2.0\RageExpenses.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoCsharpFundamentals\RageExpenses\obj\Debug\netcoreapp2.0\RageExpenses.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoCsharpFundamentals\RageExpenses\obj\Debug\netcoreapp2.0\RageExpenses.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoCsharpFundamentals\RageExpenses\obj\Debug\netcoreapp2.0\RageExpenses.dll
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\DemoCsharpFundamentals\RageExpenses\obj\Debug\netcoreapp2.0\RageExpenses.pdb

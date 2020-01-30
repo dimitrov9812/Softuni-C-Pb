@@ -1,0 +1,7 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\Methods\Calculations\bin\Debug\Calculations.exe.config
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\Methods\Calculations\bin\Debug\Calculations.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\Methods\Calculations\bin\Debug\Calculations.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\Methods\Calculations\obj\Debug\Calculations.csprojAssemblyReference.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\Methods\Calculations\obj\Debug\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\Methods\Calculations\obj\Debug\Calculations.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\Methods\Calculations\obj\Debug\Calculations.pdb

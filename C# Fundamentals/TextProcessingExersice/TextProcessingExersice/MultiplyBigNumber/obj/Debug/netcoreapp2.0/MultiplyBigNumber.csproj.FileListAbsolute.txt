@@ -1,0 +1,11 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\TextProcessingExersice\TextProcessingExersice\MultiplyBigNumber\bin\Debug\netcoreapp2.0\MultiplyBigNumber.deps.json
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\TextProcessingExersice\TextProcessingExersice\MultiplyBigNumber\bin\Debug\netcoreapp2.0\MultiplyBigNumber.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\TextProcessingExersice\TextProcessingExersice\MultiplyBigNumber\bin\Debug\netcoreapp2.0\MultiplyBigNumber.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\TextProcessingExersice\TextProcessingExersice\MultiplyBigNumber\bin\Debug\netcoreapp2.0\MultiplyBigNumber.dll
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\TextProcessingExersice\TextProcessingExersice\MultiplyBigNumber\bin\Debug\netcoreapp2.0\MultiplyBigNumber.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\TextProcessingExersice\TextProcessingExersice\MultiplyBigNumber\obj\Debug\netcoreapp2.0\MultiplyBigNumber.csprojAssemblyReference.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\TextProcessingExersice\TextProcessingExersice\MultiplyBigNumber\obj\Debug\netcoreapp2.0\MultiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\TextProcessingExersice\TextProcessingExersice\MultiplyBigNumber\obj\Debug\netcoreapp2.0\MultiplyBigNumber.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\TextProcessingExersice\TextProcessingExersice\MultiplyBigNumber\obj\Debug\netcoreapp2.0\MultiplyBigNumber.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\TextProcessingExersice\TextProcessingExersice\MultiplyBigNumber\obj\Debug\netcoreapp2.0\MultiplyBigNumber.dll
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\TextProcessingExersice\TextProcessingExersice\MultiplyBigNumber\obj\Debug\netcoreapp2.0\MultiplyBigNumber.pdb

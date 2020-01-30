@@ -1,0 +1,6 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\AssociativeArrays\ReverseStrings\RepeatStrings\bin\Debug\RepeatStrings.exe.config
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\AssociativeArrays\ReverseStrings\RepeatStrings\bin\Debug\RepeatStrings.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\AssociativeArrays\ReverseStrings\RepeatStrings\bin\Debug\RepeatStrings.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\AssociativeArrays\ReverseStrings\RepeatStrings\obj\Debug\RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\AssociativeArrays\ReverseStrings\RepeatStrings\obj\Debug\RepeatStrings.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\AssociativeArrays\ReverseStrings\RepeatStrings\obj\Debug\RepeatStrings.pdb

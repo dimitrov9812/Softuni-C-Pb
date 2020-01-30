@@ -1,0 +1,7 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\Regex\MatchFullName\bin\Debug\MatchFullName.exe.config
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\Regex\MatchFullName\bin\Debug\MatchFullName.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\Regex\MatchFullName\bin\Debug\MatchFullName.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\Regex\MatchFullName\obj\Debug\MatchFullName.csprojAssemblyReference.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\Regex\MatchFullName\obj\Debug\MatchFullName.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\Regex\MatchFullName\obj\Debug\MatchFullName.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\Regex\Regex\MatchFullName\obj\Debug\MatchFullName.pdb

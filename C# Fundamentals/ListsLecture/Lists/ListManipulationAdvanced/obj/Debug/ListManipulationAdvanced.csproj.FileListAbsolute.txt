@@ -1,0 +1,7 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListsLecture\Lists\ListManipulationAdvanced\obj\Debug\ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListsLecture\Lists\ListManipulationAdvanced\bin\Debug\ListManipulationAdvanced.exe.config
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListsLecture\Lists\ListManipulationAdvanced\bin\Debug\ListManipulationAdvanced.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListsLecture\Lists\ListManipulationAdvanced\bin\Debug\ListManipulationAdvanced.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListsLecture\Lists\ListManipulationAdvanced\obj\Debug\ListManipulationAdvanced.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListsLecture\Lists\ListManipulationAdvanced\obj\Debug\ListManipulationAdvanced.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListsLecture\Lists\ListManipulationAdvanced\obj\Debug\ListManipulationAdvanced.csprojAssemblyReference.cache

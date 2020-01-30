@@ -1,0 +1,7 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\SoftUniCoursePlanning\obj\Debug\SoftUniCoursePlanning.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\SoftUniCoursePlanning\bin\Debug\SoftUniCoursePlanning.exe.config
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\SoftUniCoursePlanning\bin\Debug\SoftUniCoursePlanning.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\SoftUniCoursePlanning\bin\Debug\SoftUniCoursePlanning.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\SoftUniCoursePlanning\obj\Debug\SoftUniCoursePlanning.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\SoftUniCoursePlanning\obj\Debug\SoftUniCoursePlanning.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\SoftUniCoursePlanning\obj\Debug\SoftUniCoursePlanning.csprojAssemblyReference.cache

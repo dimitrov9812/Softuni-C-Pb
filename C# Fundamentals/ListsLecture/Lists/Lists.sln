@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj", "{A8A91C22-7819-40CF-AD0E-CCF548D30832}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergingLists", "MergingLists\MergingLists.csproj", "{3C0A9216-80F6-4193-B70E-D25856E2071A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductList", "ProductList\ProductList.csproj", "{A875D493-606A-475C-A68A-5DE2570401B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversedINtegers", "ReversedINtegers\ReversedINtegers.csproj", "{AE411091-5DF1-48A1-97D7-BFA89D6000A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListManipulator", "ListManipulator\ListManipulator.csproj", "{4E19E44D-AB51-4DCD-AF6D-C5761222A0AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListManipulationAdvanced", "ListManipulationAdvanced\ListManipulationAdvanced.csproj", "{2268036A-7C93-4568-A857-890D08A96845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8A91C22-7819-40CF-AD0E-CCF548D30832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A91C22-7819-40CF-AD0E-CCF548D30832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8A91C22-7819-40CF-AD0E-CCF548D30832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A91C22-7819-40CF-AD0E-CCF548D30832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C0A9216-80F6-4193-B70E-D25856E2071A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C0A9216-80F6-4193-B70E-D25856E2071A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C0A9216-80F6-4193-B70E-D25856E2071A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C0A9216-80F6-4193-B70E-D25856E2071A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A875D493-606A-475C-A68A-5DE2570401B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A875D493-606A-475C-A68A-5DE2570401B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A875D493-606A-475C-A68A-5DE2570401B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A875D493-606A-475C-A68A-5DE2570401B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE411091-5DF1-48A1-97D7-BFA89D6000A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE411091-5DF1-48A1-97D7-BFA89D6000A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE411091-5DF1-48A1-97D7-BFA89D6000A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE411091-5DF1-48A1-97D7-BFA89D6000A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E19E44D-AB51-4DCD-AF6D-C5761222A0AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E19E44D-AB51-4DCD-AF6D-C5761222A0AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E19E44D-AB51-4DCD-AF6D-C5761222A0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E19E44D-AB51-4DCD-AF6D-C5761222A0AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2268036A-7C93-4568-A857-890D08A96845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2268036A-7C93-4568-A857-890D08A96845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2268036A-7C93-4568-A857-890D08A96845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2268036A-7C93-4568-A857-890D08A96845}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1B301C0-12A8-485C-97AC-EC792B998A7F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\TextProcessingExersice\TextProcessingExersice\TextProcessing\bin\Debug\TextProcessing.exe.config
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\TextProcessingExersice\TextProcessingExersice\TextProcessing\bin\Debug\TextProcessing.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\TextProcessingExersice\TextProcessingExersice\TextProcessing\bin\Debug\TextProcessing.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\TextProcessingExersice\TextProcessingExersice\TextProcessing\obj\Debug\TextProcessing.csprojAssemblyReference.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\TextProcessingExersice\TextProcessingExersice\TextProcessing\obj\Debug\TextProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\TextProcessingExersice\TextProcessingExersice\TextProcessing\obj\Debug\TextProcessing.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\TextProcessingExersice\TextProcessingExersice\TextProcessing\obj\Debug\TextProcessing.pdb

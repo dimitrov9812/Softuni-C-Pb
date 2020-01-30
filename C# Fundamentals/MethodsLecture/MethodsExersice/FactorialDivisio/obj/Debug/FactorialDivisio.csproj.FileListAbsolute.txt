@@ -1,0 +1,7 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\MethodsExersice\FactorialDivisio\bin\Debug\FactorialDivisio.exe.config
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\MethodsExersice\FactorialDivisio\bin\Debug\FactorialDivisio.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\MethodsExersice\FactorialDivisio\bin\Debug\FactorialDivisio.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\MethodsExersice\FactorialDivisio\obj\Debug\FactorialDivisio.csprojAssemblyReference.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\MethodsExersice\FactorialDivisio\obj\Debug\FactorialDivisio.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\MethodsExersice\FactorialDivisio\obj\Debug\FactorialDivisio.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\MethodsExersice\FactorialDivisio\obj\Debug\FactorialDivisio.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexExersice", "RegexExersice\RegexExersice.csproj", "{0305C962-5E0D-43A8-8ACB-4569CFFD26CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Race", "Race\Race.csproj", "{F7056245-482F-44F6-AEAC-95AB1DBCB878}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarIncome", "BarIncome\BarIncome.csproj", "{056F23EC-EE0F-4CC9-A018-ABBE8E8A7FBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0305C962-5E0D-43A8-8ACB-4569CFFD26CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0305C962-5E0D-43A8-8ACB-4569CFFD26CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0305C962-5E0D-43A8-8ACB-4569CFFD26CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0305C962-5E0D-43A8-8ACB-4569CFFD26CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7056245-482F-44F6-AEAC-95AB1DBCB878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7056245-482F-44F6-AEAC-95AB1DBCB878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7056245-482F-44F6-AEAC-95AB1DBCB878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7056245-482F-44F6-AEAC-95AB1DBCB878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{056F23EC-EE0F-4CC9-A018-ABBE8E8A7FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{056F23EC-EE0F-4CC9-A018-ABBE8E8A7FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{056F23EC-EE0F-4CC9-A018-ABBE8E8A7FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{056F23EC-EE0F-4CC9-A018-ABBE8E8A7FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {679DF7B4-6C82-4857-8660-FDF709287E7E}
+	EndGlobalSection
+EndGlobal

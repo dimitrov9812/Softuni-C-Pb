@@ -1,0 +1,7 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\MethodsExersice\AddAndSubstract\bin\Debug\AddAndSubstract.exe.config
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\MethodsExersice\AddAndSubstract\bin\Debug\AddAndSubstract.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\MethodsExersice\AddAndSubstract\bin\Debug\AddAndSubstract.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\MethodsExersice\AddAndSubstract\obj\Debug\AddAndSubstract.csprojAssemblyReference.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\MethodsExersice\AddAndSubstract\obj\Debug\AddAndSubstract.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\MethodsExersice\AddAndSubstract\obj\Debug\AddAndSubstract.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\MethodsExersice\AddAndSubstract\obj\Debug\AddAndSubstract.pdb

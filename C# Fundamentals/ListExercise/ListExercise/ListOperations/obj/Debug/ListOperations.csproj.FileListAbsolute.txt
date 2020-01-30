@@ -1,0 +1,7 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\ListOperations\bin\Debug\ListOperations.exe.config
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\ListOperations\bin\Debug\ListOperations.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\ListOperations\bin\Debug\ListOperations.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\ListOperations\obj\Debug\ListOperations.csprojAssemblyReference.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\ListOperations\obj\Debug\ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\ListOperations\obj\Debug\ListOperations.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListExercise\ListExercise\ListOperations\obj\Debug\ListOperations.pdb

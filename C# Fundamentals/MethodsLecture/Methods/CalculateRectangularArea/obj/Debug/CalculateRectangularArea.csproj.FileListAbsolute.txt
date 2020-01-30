@@ -1,0 +1,6 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\Methods\CalculateRectangularArea\bin\Debug\CalculateRectangularArea.exe.config
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\Methods\CalculateRectangularArea\bin\Debug\CalculateRectangularArea.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\Methods\CalculateRectangularArea\bin\Debug\CalculateRectangularArea.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\Methods\CalculateRectangularArea\obj\Debug\CalculateRectangularArea.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\Methods\CalculateRectangularArea\obj\Debug\CalculateRectangularArea.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\MethodsLecture\Methods\CalculateRectangularArea\obj\Debug\CalculateRectangularArea.pdb

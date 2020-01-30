@@ -1,0 +1,7 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListsLecture\Lists\Lists\bin\Debug\Lists.exe.config
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListsLecture\Lists\Lists\bin\Debug\Lists.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListsLecture\Lists\Lists\bin\Debug\Lists.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListsLecture\Lists\Lists\obj\Debug\Lists.csprojAssemblyReference.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListsLecture\Lists\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListsLecture\Lists\Lists\obj\Debug\Lists.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\ListsLecture\Lists\Lists\obj\Debug\Lists.pdb

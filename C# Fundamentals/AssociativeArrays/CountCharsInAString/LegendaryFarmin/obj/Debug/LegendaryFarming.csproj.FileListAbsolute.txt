@@ -1,0 +1,7 @@
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\AssociativeArrays\CountCharsInAString\LegendaryFarmin\bin\Debug\LegendaryFarmin.exe.config
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\AssociativeArrays\CountCharsInAString\LegendaryFarmin\bin\Debug\LegendaryFarmin.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\AssociativeArrays\CountCharsInAString\LegendaryFarmin\bin\Debug\LegendaryFarmin.pdb
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\AssociativeArrays\CountCharsInAString\LegendaryFarmin\obj\Debug\LegendaryFarming.csprojAssemblyReference.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\AssociativeArrays\CountCharsInAString\LegendaryFarmin\obj\Debug\LegendaryFarming.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\AssociativeArrays\CountCharsInAString\LegendaryFarmin\obj\Debug\LegendaryFarmin.exe
+C:\Users\Aspire VX\Desktop\softuni\C# Fundamentals\AssociativeArrays\CountCharsInAString\LegendaryFarmin\obj\Debug\LegendaryFarmin.pdb
