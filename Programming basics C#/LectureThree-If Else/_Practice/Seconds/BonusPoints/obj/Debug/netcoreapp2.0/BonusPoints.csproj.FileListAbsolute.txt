@@ -1,0 +1,10 @@
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\BonusPoints\bin\Debug\netcoreapp2.0\BonusPoints.deps.json
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\BonusPoints\bin\Debug\netcoreapp2.0\BonusPoints.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\BonusPoints\bin\Debug\netcoreapp2.0\BonusPoints.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\BonusPoints\bin\Debug\netcoreapp2.0\BonusPoints.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\BonusPoints\bin\Debug\netcoreapp2.0\BonusPoints.pdb
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\BonusPoints\obj\Debug\netcoreapp2.0\BonusPoints.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\BonusPoints\obj\Debug\netcoreapp2.0\BonusPoints.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\BonusPoints\obj\Debug\netcoreapp2.0\BonusPoints.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\BonusPoints\obj\Debug\netcoreapp2.0\BonusPoints.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\BonusPoints\obj\Debug\netcoreapp2.0\BonusPoints.pdb

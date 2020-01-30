@@ -1,0 +1,11 @@
+C:\Users\Aspire VX\Desktop\softuni\Lecture Nine - Nested Loops\Lab\Lab\Lab\bin\Debug\netcoreapp2.0\Lab.deps.json
+C:\Users\Aspire VX\Desktop\softuni\Lecture Nine - Nested Loops\Lab\Lab\Lab\bin\Debug\netcoreapp2.0\Lab.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\Lecture Nine - Nested Loops\Lab\Lab\Lab\bin\Debug\netcoreapp2.0\Lab.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\Lecture Nine - Nested Loops\Lab\Lab\Lab\bin\Debug\netcoreapp2.0\Lab.dll
+C:\Users\Aspire VX\Desktop\softuni\Lecture Nine - Nested Loops\Lab\Lab\Lab\bin\Debug\netcoreapp2.0\Lab.pdb
+C:\Users\Aspire VX\Desktop\softuni\Lecture Nine - Nested Loops\Lab\Lab\Lab\obj\Debug\netcoreapp2.0\Lab.csprojAssemblyReference.cache
+C:\Users\Aspire VX\Desktop\softuni\Lecture Nine - Nested Loops\Lab\Lab\Lab\obj\Debug\netcoreapp2.0\Lab.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\Lecture Nine - Nested Loops\Lab\Lab\Lab\obj\Debug\netcoreapp2.0\Lab.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\Lecture Nine - Nested Loops\Lab\Lab\Lab\obj\Debug\netcoreapp2.0\Lab.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\Lecture Nine - Nested Loops\Lab\Lab\Lab\obj\Debug\netcoreapp2.0\Lab.dll
+C:\Users\Aspire VX\Desktop\softuni\Lecture Nine - Nested Loops\Lab\Lab\Lab\obj\Debug\netcoreapp2.0\Lab.pdb

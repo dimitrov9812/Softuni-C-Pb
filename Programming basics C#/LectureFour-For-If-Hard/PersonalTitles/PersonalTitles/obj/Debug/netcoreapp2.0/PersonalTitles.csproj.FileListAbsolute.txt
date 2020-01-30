@@ -1,0 +1,11 @@
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\PersonalTitles\bin\Debug\netcoreapp2.0\PersonalTitles.deps.json
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\PersonalTitles\bin\Debug\netcoreapp2.0\PersonalTitles.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\PersonalTitles\bin\Debug\netcoreapp2.0\PersonalTitles.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\PersonalTitles\bin\Debug\netcoreapp2.0\PersonalTitles.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\PersonalTitles\bin\Debug\netcoreapp2.0\PersonalTitles.pdb
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\PersonalTitles\obj\Debug\netcoreapp2.0\PersonalTitles.csprojAssemblyReference.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\PersonalTitles\obj\Debug\netcoreapp2.0\PersonalTitles.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\PersonalTitles\obj\Debug\netcoreapp2.0\PersonalTitles.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\PersonalTitles\obj\Debug\netcoreapp2.0\PersonalTitles.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\PersonalTitles\obj\Debug\netcoreapp2.0\PersonalTitles.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\PersonalTitles\obj\Debug\netcoreapp2.0\PersonalTitles.pdb

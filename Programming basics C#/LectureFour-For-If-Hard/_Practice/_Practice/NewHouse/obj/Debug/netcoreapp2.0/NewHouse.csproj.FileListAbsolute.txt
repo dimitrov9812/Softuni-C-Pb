@@ -1,0 +1,11 @@
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\NewHouse\bin\Debug\netcoreapp2.0\NewHouse.deps.json
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\NewHouse\bin\Debug\netcoreapp2.0\NewHouse.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\NewHouse\bin\Debug\netcoreapp2.0\NewHouse.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\NewHouse\bin\Debug\netcoreapp2.0\NewHouse.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\NewHouse\bin\Debug\netcoreapp2.0\NewHouse.pdb
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\NewHouse\obj\Debug\netcoreapp2.0\NewHouse.csprojAssemblyReference.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\NewHouse\obj\Debug\netcoreapp2.0\NewHouse.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\NewHouse\obj\Debug\netcoreapp2.0\NewHouse.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\NewHouse\obj\Debug\netcoreapp2.0\NewHouse.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\NewHouse\obj\Debug\netcoreapp2.0\NewHouse.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\NewHouse\obj\Debug\netcoreapp2.0\NewHouse.pdb

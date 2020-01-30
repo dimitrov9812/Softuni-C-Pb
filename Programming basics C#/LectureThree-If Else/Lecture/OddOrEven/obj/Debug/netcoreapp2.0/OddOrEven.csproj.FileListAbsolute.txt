@@ -1,0 +1,10 @@
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\Lecture\OddOrEven\bin\Debug\netcoreapp2.0\OddOrEven.deps.json
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\Lecture\OddOrEven\bin\Debug\netcoreapp2.0\OddOrEven.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\Lecture\OddOrEven\bin\Debug\netcoreapp2.0\OddOrEven.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\Lecture\OddOrEven\bin\Debug\netcoreapp2.0\OddOrEven.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\Lecture\OddOrEven\bin\Debug\netcoreapp2.0\OddOrEven.pdb
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\Lecture\OddOrEven\obj\Debug\netcoreapp2.0\OddOrEven.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\Lecture\OddOrEven\obj\Debug\netcoreapp2.0\OddOrEven.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\Lecture\OddOrEven\obj\Debug\netcoreapp2.0\OddOrEven.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\Lecture\OddOrEven\obj\Debug\netcoreapp2.0\OddOrEven.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\Lecture\OddOrEven\obj\Debug\netcoreapp2.0\OddOrEven.pdb

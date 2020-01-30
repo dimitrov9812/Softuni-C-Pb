@@ -1,0 +1,11 @@
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\_Practice\_Practice\_Practice\bin\Debug\netcoreapp2.0\USD-BGN.deps.json
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\_Practice\_Practice\_Practice\bin\Debug\netcoreapp2.0\USD-BGN.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\_Practice\_Practice\_Practice\bin\Debug\netcoreapp2.0\USD-BGN.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\_Practice\_Practice\_Practice\bin\Debug\netcoreapp2.0\USD-BGN.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\_Practice\_Practice\_Practice\bin\Debug\netcoreapp2.0\USD-BGN.pdb
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\_Practice\_Practice\_Practice\obj\Debug\netcoreapp2.0\USD-BGN.csprojAssemblyReference.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\_Practice\_Practice\_Practice\obj\Debug\netcoreapp2.0\USD-BGN.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\_Practice\_Practice\_Practice\obj\Debug\netcoreapp2.0\USD-BGN.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\_Practice\_Practice\_Practice\obj\Debug\netcoreapp2.0\USD-BGN.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\_Practice\_Practice\_Practice\obj\Debug\netcoreapp2.0\USD-BGN.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\_Practice\_Practice\_Practice\obj\Debug\netcoreapp2.0\USD-BGN.pdb

@@ -1,0 +1,10 @@
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\Hotel\bin\Debug\netcoreapp2.0\Hotel.deps.json
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\Hotel\bin\Debug\netcoreapp2.0\Hotel.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\Hotel\bin\Debug\netcoreapp2.0\Hotel.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\Hotel\bin\Debug\netcoreapp2.0\Hotel.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\Hotel\bin\Debug\netcoreapp2.0\Hotel.pdb
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\Hotel\obj\Debug\netcoreapp2.0\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\Hotel\obj\Debug\netcoreapp2.0\Hotel.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\Hotel\obj\Debug\netcoreapp2.0\Hotel.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\Hotel\obj\Debug\netcoreapp2.0\Hotel.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\Hotel\obj\Debug\netcoreapp2.0\Hotel.pdb

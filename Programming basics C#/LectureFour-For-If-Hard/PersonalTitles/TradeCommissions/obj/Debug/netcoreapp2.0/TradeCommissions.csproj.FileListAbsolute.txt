@@ -1,0 +1,10 @@
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\TradeCommissions\bin\Debug\netcoreapp2.0\TradeCommissions.deps.json
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\TradeCommissions\bin\Debug\netcoreapp2.0\TradeCommissions.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\TradeCommissions\bin\Debug\netcoreapp2.0\TradeCommissions.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\TradeCommissions\bin\Debug\netcoreapp2.0\TradeCommissions.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\TradeCommissions\bin\Debug\netcoreapp2.0\TradeCommissions.pdb
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\TradeCommissions\obj\Debug\netcoreapp2.0\TradeCommissions.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\TradeCommissions\obj\Debug\netcoreapp2.0\TradeCommissions.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\TradeCommissions\obj\Debug\netcoreapp2.0\TradeCommissions.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\TradeCommissions\obj\Debug\netcoreapp2.0\TradeCommissions.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\TradeCommissions\obj\Debug\netcoreapp2.0\TradeCommissions.pdb

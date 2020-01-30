@@ -1,0 +1,11 @@
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\SquareArea\bin\Debug\netcoreapp2.0\SquareArea.deps.json
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\SquareArea\bin\Debug\netcoreapp2.0\SquareArea.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\SquareArea\bin\Debug\netcoreapp2.0\SquareArea.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\SquareArea\bin\Debug\netcoreapp2.0\SquareArea.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\SquareArea\bin\Debug\netcoreapp2.0\SquareArea.pdb
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\SquareArea\obj\Debug\netcoreapp2.0\SquareArea.csprojAssemblyReference.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\SquareArea\obj\Debug\netcoreapp2.0\SquareArea.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\SquareArea\obj\Debug\netcoreapp2.0\SquareArea.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\SquareArea\obj\Debug\netcoreapp2.0\SquareArea.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\SquareArea\obj\Debug\netcoreapp2.0\SquareArea.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\SquareArea\obj\Debug\netcoreapp2.0\SquareArea.pdb

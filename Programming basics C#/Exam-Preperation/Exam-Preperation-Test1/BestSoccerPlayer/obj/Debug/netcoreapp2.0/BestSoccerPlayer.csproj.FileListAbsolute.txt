@@ -1,0 +1,11 @@
+C:\Users\Aspire VX\Desktop\softuni\Exam-Preperation\Exam-Preperation-Test1\BestSoccerPlayer\bin\Debug\netcoreapp2.0\BestSoccerPlayer.deps.json
+C:\Users\Aspire VX\Desktop\softuni\Exam-Preperation\Exam-Preperation-Test1\BestSoccerPlayer\bin\Debug\netcoreapp2.0\BestSoccerPlayer.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\Exam-Preperation\Exam-Preperation-Test1\BestSoccerPlayer\bin\Debug\netcoreapp2.0\BestSoccerPlayer.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\Exam-Preperation\Exam-Preperation-Test1\BestSoccerPlayer\bin\Debug\netcoreapp2.0\BestSoccerPlayer.dll
+C:\Users\Aspire VX\Desktop\softuni\Exam-Preperation\Exam-Preperation-Test1\BestSoccerPlayer\bin\Debug\netcoreapp2.0\BestSoccerPlayer.pdb
+C:\Users\Aspire VX\Desktop\softuni\Exam-Preperation\Exam-Preperation-Test1\BestSoccerPlayer\obj\Debug\netcoreapp2.0\BestSoccerPlayer.csprojAssemblyReference.cache
+C:\Users\Aspire VX\Desktop\softuni\Exam-Preperation\Exam-Preperation-Test1\BestSoccerPlayer\obj\Debug\netcoreapp2.0\BestSoccerPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\Exam-Preperation\Exam-Preperation-Test1\BestSoccerPlayer\obj\Debug\netcoreapp2.0\BestSoccerPlayer.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\Exam-Preperation\Exam-Preperation-Test1\BestSoccerPlayer\obj\Debug\netcoreapp2.0\BestSoccerPlayer.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\Exam-Preperation\Exam-Preperation-Test1\BestSoccerPlayer\obj\Debug\netcoreapp2.0\BestSoccerPlayer.dll
+C:\Users\Aspire VX\Desktop\softuni\Exam-Preperation\Exam-Preperation-Test1\BestSoccerPlayer\obj\Debug\netcoreapp2.0\BestSoccerPlayer.pdb

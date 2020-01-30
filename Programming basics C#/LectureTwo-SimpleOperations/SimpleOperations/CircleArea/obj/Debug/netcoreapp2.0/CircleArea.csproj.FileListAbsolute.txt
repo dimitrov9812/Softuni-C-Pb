@@ -1,0 +1,10 @@
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CircleArea\bin\Debug\netcoreapp2.0\CircleArea.deps.json
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CircleArea\bin\Debug\netcoreapp2.0\CircleArea.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CircleArea\bin\Debug\netcoreapp2.0\CircleArea.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CircleArea\bin\Debug\netcoreapp2.0\CircleArea.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CircleArea\bin\Debug\netcoreapp2.0\CircleArea.pdb
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CircleArea\obj\Debug\netcoreapp2.0\CircleArea.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CircleArea\obj\Debug\netcoreapp2.0\CircleArea.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CircleArea\obj\Debug\netcoreapp2.0\CircleArea.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CircleArea\obj\Debug\netcoreapp2.0\CircleArea.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CircleArea\obj\Debug\netcoreapp2.0\CircleArea.pdb

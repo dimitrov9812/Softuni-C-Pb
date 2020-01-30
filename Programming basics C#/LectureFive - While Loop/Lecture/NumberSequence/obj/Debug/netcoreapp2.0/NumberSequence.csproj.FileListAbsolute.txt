@@ -1,0 +1,11 @@
+C:\Users\Aspire VX\Desktop\softuni\LectureFive - While Loop\Lecture\NumberSequence\bin\Debug\netcoreapp2.0\NumberSequence.deps.json
+C:\Users\Aspire VX\Desktop\softuni\LectureFive - While Loop\Lecture\NumberSequence\bin\Debug\netcoreapp2.0\NumberSequence.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\LectureFive - While Loop\Lecture\NumberSequence\bin\Debug\netcoreapp2.0\NumberSequence.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\LectureFive - While Loop\Lecture\NumberSequence\bin\Debug\netcoreapp2.0\NumberSequence.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureFive - While Loop\Lecture\NumberSequence\bin\Debug\netcoreapp2.0\NumberSequence.pdb
+C:\Users\Aspire VX\Desktop\softuni\LectureFive - While Loop\Lecture\NumberSequence\obj\Debug\netcoreapp2.0\NumberSequence.csprojAssemblyReference.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureFive - While Loop\Lecture\NumberSequence\obj\Debug\netcoreapp2.0\NumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureFive - While Loop\Lecture\NumberSequence\obj\Debug\netcoreapp2.0\NumberSequence.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureFive - While Loop\Lecture\NumberSequence\obj\Debug\netcoreapp2.0\NumberSequence.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\LectureFive - While Loop\Lecture\NumberSequence\obj\Debug\netcoreapp2.0\NumberSequence.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureFive - While Loop\Lecture\NumberSequence\obj\Debug\netcoreapp2.0\NumberSequence.pdb

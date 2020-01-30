@@ -1,0 +1,11 @@
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\InvalidNumber\bin\Debug\netcoreapp2.0\InvalidNumber.deps.json
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\InvalidNumber\bin\Debug\netcoreapp2.0\InvalidNumber.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\InvalidNumber\bin\Debug\netcoreapp2.0\InvalidNumber.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\InvalidNumber\bin\Debug\netcoreapp2.0\InvalidNumber.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\InvalidNumber\bin\Debug\netcoreapp2.0\InvalidNumber.pdb
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\InvalidNumber\obj\Debug\netcoreapp2.0\InvalidNumber.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\InvalidNumber\obj\Debug\netcoreapp2.0\InvalidNumber.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\InvalidNumber\obj\Debug\netcoreapp2.0\InvalidNumber.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\InvalidNumber\obj\Debug\netcoreapp2.0\InvalidNumber.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\InvalidNumber\obj\Debug\netcoreapp2.0\InvalidNumber.pdb
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\PersonalTitles\InvalidNumber\obj\Debug\netcoreapp2.0\InvalidNumber.csprojAssemblyReference.cache

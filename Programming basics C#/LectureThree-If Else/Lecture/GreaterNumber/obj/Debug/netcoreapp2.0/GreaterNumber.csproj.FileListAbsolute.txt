@@ -1,0 +1,10 @@
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\Lecture\GreaterNumber\bin\Debug\netcoreapp2.0\GreaterNumber.deps.json
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\Lecture\GreaterNumber\bin\Debug\netcoreapp2.0\GreaterNumber.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\Lecture\GreaterNumber\bin\Debug\netcoreapp2.0\GreaterNumber.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\Lecture\GreaterNumber\bin\Debug\netcoreapp2.0\GreaterNumber.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\Lecture\GreaterNumber\bin\Debug\netcoreapp2.0\GreaterNumber.pdb
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\Lecture\GreaterNumber\obj\Debug\netcoreapp2.0\GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\Lecture\GreaterNumber\obj\Debug\netcoreapp2.0\GreaterNumber.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\Lecture\GreaterNumber\obj\Debug\netcoreapp2.0\GreaterNumber.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\Lecture\GreaterNumber\obj\Debug\netcoreapp2.0\GreaterNumber.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\Lecture\GreaterNumber\obj\Debug\netcoreapp2.0\GreaterNumber.pdb

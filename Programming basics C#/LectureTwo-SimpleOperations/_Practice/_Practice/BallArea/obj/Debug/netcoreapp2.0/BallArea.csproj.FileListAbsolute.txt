@@ -1,0 +1,10 @@
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\_Practice\_Practice\BallArea\bin\Debug\netcoreapp2.0\BallArea.deps.json
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\_Practice\_Practice\BallArea\bin\Debug\netcoreapp2.0\BallArea.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\_Practice\_Practice\BallArea\bin\Debug\netcoreapp2.0\BallArea.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\_Practice\_Practice\BallArea\bin\Debug\netcoreapp2.0\BallArea.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\_Practice\_Practice\BallArea\bin\Debug\netcoreapp2.0\BallArea.pdb
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\_Practice\_Practice\BallArea\obj\Debug\netcoreapp2.0\BallArea.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\_Practice\_Practice\BallArea\obj\Debug\netcoreapp2.0\BallArea.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\_Practice\_Practice\BallArea\obj\Debug\netcoreapp2.0\BallArea.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\_Practice\_Practice\BallArea\obj\Debug\netcoreapp2.0\BallArea.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\_Practice\_Practice\BallArea\obj\Debug\netcoreapp2.0\BallArea.pdb

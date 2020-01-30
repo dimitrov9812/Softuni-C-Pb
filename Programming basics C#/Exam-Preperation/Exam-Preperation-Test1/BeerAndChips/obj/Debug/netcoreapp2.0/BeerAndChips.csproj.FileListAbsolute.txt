@@ -1,0 +1,11 @@
+C:\Users\Aspire VX\Desktop\softuni\Exam-Preperation\Exam-Preperation-Test1\BeerAndChips\bin\Debug\netcoreapp2.0\BeerAndChips.deps.json
+C:\Users\Aspire VX\Desktop\softuni\Exam-Preperation\Exam-Preperation-Test1\BeerAndChips\bin\Debug\netcoreapp2.0\BeerAndChips.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\Exam-Preperation\Exam-Preperation-Test1\BeerAndChips\bin\Debug\netcoreapp2.0\BeerAndChips.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\Exam-Preperation\Exam-Preperation-Test1\BeerAndChips\bin\Debug\netcoreapp2.0\BeerAndChips.dll
+C:\Users\Aspire VX\Desktop\softuni\Exam-Preperation\Exam-Preperation-Test1\BeerAndChips\bin\Debug\netcoreapp2.0\BeerAndChips.pdb
+C:\Users\Aspire VX\Desktop\softuni\Exam-Preperation\Exam-Preperation-Test1\BeerAndChips\obj\Debug\netcoreapp2.0\BeerAndChips.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\Exam-Preperation\Exam-Preperation-Test1\BeerAndChips\obj\Debug\netcoreapp2.0\BeerAndChips.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\Exam-Preperation\Exam-Preperation-Test1\BeerAndChips\obj\Debug\netcoreapp2.0\BeerAndChips.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\Exam-Preperation\Exam-Preperation-Test1\BeerAndChips\obj\Debug\netcoreapp2.0\BeerAndChips.dll
+C:\Users\Aspire VX\Desktop\softuni\Exam-Preperation\Exam-Preperation-Test1\BeerAndChips\obj\Debug\netcoreapp2.0\BeerAndChips.pdb
+C:\Users\Aspire VX\Desktop\softuni\Exam-Preperation\Exam-Preperation-Test1\BeerAndChips\obj\Debug\netcoreapp2.0\BeerAndChips.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\ThreeBrothers\bin\Debug\netcoreapp2.0\ThreeBrothers.deps.json
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\ThreeBrothers\bin\Debug\netcoreapp2.0\ThreeBrothers.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\ThreeBrothers\bin\Debug\netcoreapp2.0\ThreeBrothers.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\ThreeBrothers\bin\Debug\netcoreapp2.0\ThreeBrothers.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\ThreeBrothers\bin\Debug\netcoreapp2.0\ThreeBrothers.pdb
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\ThreeBrothers\obj\Debug\netcoreapp2.0\ThreeBrothers.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\ThreeBrothers\obj\Debug\netcoreapp2.0\ThreeBrothers.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\ThreeBrothers\obj\Debug\netcoreapp2.0\ThreeBrothers.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\ThreeBrothers\obj\Debug\netcoreapp2.0\ThreeBrothers.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\ThreeBrothers\obj\Debug\netcoreapp2.0\ThreeBrothers.pdb

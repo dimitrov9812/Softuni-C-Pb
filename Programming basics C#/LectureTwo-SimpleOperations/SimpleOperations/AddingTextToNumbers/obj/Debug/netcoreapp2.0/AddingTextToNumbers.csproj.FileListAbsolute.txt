@@ -1,0 +1,10 @@
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\AddingTextToNumbers\bin\Debug\netcoreapp2.0\AddingTextToNumbers.deps.json
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\AddingTextToNumbers\bin\Debug\netcoreapp2.0\AddingTextToNumbers.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\AddingTextToNumbers\bin\Debug\netcoreapp2.0\AddingTextToNumbers.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\AddingTextToNumbers\bin\Debug\netcoreapp2.0\AddingTextToNumbers.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\AddingTextToNumbers\bin\Debug\netcoreapp2.0\AddingTextToNumbers.pdb
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\AddingTextToNumbers\obj\Debug\netcoreapp2.0\AddingTextToNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\AddingTextToNumbers\obj\Debug\netcoreapp2.0\AddingTextToNumbers.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\AddingTextToNumbers\obj\Debug\netcoreapp2.0\AddingTextToNumbers.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\AddingTextToNumbers\obj\Debug\netcoreapp2.0\AddingTextToNumbers.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\AddingTextToNumbers\obj\Debug\netcoreapp2.0\AddingTextToNumbers.pdb

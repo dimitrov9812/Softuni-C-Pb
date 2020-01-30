@@ -1,0 +1,11 @@
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\MetricConverter\bin\Debug\netcoreapp2.0\MetricConverter.deps.json
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\MetricConverter\bin\Debug\netcoreapp2.0\MetricConverter.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\MetricConverter\bin\Debug\netcoreapp2.0\MetricConverter.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\MetricConverter\bin\Debug\netcoreapp2.0\MetricConverter.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\MetricConverter\bin\Debug\netcoreapp2.0\MetricConverter.pdb
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\MetricConverter\obj\Debug\netcoreapp2.0\MetricConverter.csprojAssemblyReference.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\MetricConverter\obj\Debug\netcoreapp2.0\MetricConverter.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\MetricConverter\obj\Debug\netcoreapp2.0\MetricConverter.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\MetricConverter\obj\Debug\netcoreapp2.0\MetricConverter.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\MetricConverter\obj\Debug\netcoreapp2.0\MetricConverter.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureThree-If Else\_Practice\Seconds\MetricConverter\obj\Debug\netcoreapp2.0\MetricConverter.pdb

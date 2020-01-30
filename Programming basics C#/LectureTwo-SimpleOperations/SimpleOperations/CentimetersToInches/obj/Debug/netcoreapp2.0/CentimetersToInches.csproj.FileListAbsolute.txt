@@ -1,0 +1,11 @@
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CentimetersToInches\bin\Debug\netcoreapp2.0\CentimetersToInches.deps.json
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CentimetersToInches\bin\Debug\netcoreapp2.0\CentimetersToInches.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CentimetersToInches\bin\Debug\netcoreapp2.0\CentimetersToInches.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CentimetersToInches\bin\Debug\netcoreapp2.0\CentimetersToInches.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CentimetersToInches\bin\Debug\netcoreapp2.0\CentimetersToInches.pdb
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CentimetersToInches\obj\Debug\netcoreapp2.0\CentimetersToInches.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CentimetersToInches\obj\Debug\netcoreapp2.0\CentimetersToInches.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CentimetersToInches\obj\Debug\netcoreapp2.0\CentimetersToInches.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CentimetersToInches\obj\Debug\netcoreapp2.0\CentimetersToInches.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CentimetersToInches\obj\Debug\netcoreapp2.0\CentimetersToInches.pdb
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CentimetersToInches\obj\Debug\netcoreapp2.0\CentimetersToInches.csprojAssemblyReference.cache

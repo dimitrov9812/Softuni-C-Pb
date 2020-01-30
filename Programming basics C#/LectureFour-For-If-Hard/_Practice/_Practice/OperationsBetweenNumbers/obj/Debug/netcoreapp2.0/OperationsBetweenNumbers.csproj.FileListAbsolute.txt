@@ -1,0 +1,11 @@
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\OperationsBetweenNumbers\bin\Debug\netcoreapp2.0\OperationsBetweenNumbers.deps.json
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\OperationsBetweenNumbers\bin\Debug\netcoreapp2.0\OperationsBetweenNumbers.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\OperationsBetweenNumbers\bin\Debug\netcoreapp2.0\OperationsBetweenNumbers.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\OperationsBetweenNumbers\bin\Debug\netcoreapp2.0\OperationsBetweenNumbers.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\OperationsBetweenNumbers\bin\Debug\netcoreapp2.0\OperationsBetweenNumbers.pdb
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\OperationsBetweenNumbers\obj\Debug\netcoreapp2.0\OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\OperationsBetweenNumbers\obj\Debug\netcoreapp2.0\OperationsBetweenNumbers.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\OperationsBetweenNumbers\obj\Debug\netcoreapp2.0\OperationsBetweenNumbers.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\OperationsBetweenNumbers\obj\Debug\netcoreapp2.0\OperationsBetweenNumbers.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\OperationsBetweenNumbers\obj\Debug\netcoreapp2.0\OperationsBetweenNumbers.pdb
+C:\Users\Aspire VX\Desktop\softuni\LectureFour-For-If-Hard\_Practice\_Practice\OperationsBetweenNumbers\obj\Debug\netcoreapp2.0\OperationsBetweenNumbers.csprojAssemblyReference.cache

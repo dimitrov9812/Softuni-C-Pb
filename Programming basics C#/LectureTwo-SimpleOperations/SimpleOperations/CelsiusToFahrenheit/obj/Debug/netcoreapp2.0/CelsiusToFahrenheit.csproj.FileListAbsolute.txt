@@ -1,0 +1,10 @@
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CelsiusToFahrenheit\bin\Debug\netcoreapp2.0\CelsiusToFahrenheit.deps.json
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CelsiusToFahrenheit\bin\Debug\netcoreapp2.0\CelsiusToFahrenheit.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CelsiusToFahrenheit\bin\Debug\netcoreapp2.0\CelsiusToFahrenheit.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CelsiusToFahrenheit\bin\Debug\netcoreapp2.0\CelsiusToFahrenheit.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CelsiusToFahrenheit\bin\Debug\netcoreapp2.0\CelsiusToFahrenheit.pdb
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CelsiusToFahrenheit\obj\Debug\netcoreapp2.0\CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CelsiusToFahrenheit\obj\Debug\netcoreapp2.0\CelsiusToFahrenheit.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CelsiusToFahrenheit\obj\Debug\netcoreapp2.0\CelsiusToFahrenheit.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CelsiusToFahrenheit\obj\Debug\netcoreapp2.0\CelsiusToFahrenheit.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\CelsiusToFahrenheit\obj\Debug\netcoreapp2.0\CelsiusToFahrenheit.pdb

@@ -1,0 +1,10 @@
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\TriangleArea\bin\Debug\netcoreapp2.0\TriangleArea.deps.json
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\TriangleArea\bin\Debug\netcoreapp2.0\TriangleArea.runtimeconfig.json
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\TriangleArea\bin\Debug\netcoreapp2.0\TriangleArea.runtimeconfig.dev.json
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\TriangleArea\bin\Debug\netcoreapp2.0\TriangleArea.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\TriangleArea\bin\Debug\netcoreapp2.0\TriangleArea.pdb
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\TriangleArea\obj\Debug\netcoreapp2.0\TriangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\TriangleArea\obj\Debug\netcoreapp2.0\TriangleArea.AssemblyInfoInputs.cache
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\TriangleArea\obj\Debug\netcoreapp2.0\TriangleArea.AssemblyInfo.cs
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\TriangleArea\obj\Debug\netcoreapp2.0\TriangleArea.dll
+C:\Users\Aspire VX\Desktop\softuni\LectureTwo-SimpleOperations\SimpleOperations\TriangleArea\obj\Debug\netcoreapp2.0\TriangleArea.pdb
